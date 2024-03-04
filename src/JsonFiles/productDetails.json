@@ -1,0 +1,306 @@
+{
+  "fireSafety": [
+    {
+      "id": 1,
+      "name": "Fire Extinguishers",
+      "price": "$50",
+      "imageSrc": "../Images/products/fireSafety/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fire Fighter Suit",
+      "price": "$100",
+      "imageSrc": "../Images/products/fireSafety/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fire Fighting System",
+      "price": "$500",
+      "imageSrc": "../Images/products/fireSafety/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fire Blanket",
+      "price": "$20",
+      "imageSrc": "../Images/products/fireSafety/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fire Alarm System",
+      "price": "$200",
+      "imageSrc": "../Images/products/fireSafety/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fire Supression",
+      "price": "$300",
+      "imageSrc": "../Images/products/fireSafety/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Fire Supression",
+      "price": "$300",
+      "imageSrc": "../Images/products/fireSafety/7.jpg"
+    }
+  ],
+  "electricalSafety": [
+    {
+      "id": 1,
+      "name": "Electrical Gloves",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Electrical Mat",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Electrical Safety Shoes",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Electrical Gumboot",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Loto Kit",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/5.jpg"
+    }
+  ],
+  "rescueItems": [
+    {
+      "id": 1,
+      "name": "Rescue Ladder",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ascendor",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Life Buoy Ring",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Life Jacket",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Boat",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rescue Rope",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/6.jpg"
+    }
+  ],
+  "roadSafety": [
+    {
+      "id": 1,
+      "name": "Convex and Dome Mirror",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "SOLAR FLASHER H2-150B",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "i-lite+ Reflective Pavement Marker",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "PARKING BARRIERSH2WFB-2020",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "WHEEL LOCK H2TL-2",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Welding Gloves",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Convex Mirror Multiple Inches",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/8.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Spring Post Lane Divider",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/9.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Floor Stand",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/10.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gum Boots",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/11.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Traffic Cone",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/12.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Road Safety Kits",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/13.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Metal Delineator",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/14.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Logout Tagout Kit",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/15.jpg"
+    },
+    {
+      "id": 15,
+      "name": "LSHAPE CORNER GUARDS H2CP-800-10",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/16.jpg"
+    },
+    {
+      "id": 16,
+      "name": "LED Solar Traffic Blinker",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/17.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Plastic Road Studs-H2RS-2",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/18.jpg"
+    },
+    {
+      "id": 18,
+      "name": "AB-SU150-1 Series",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/19.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Solar Delineator Light",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/20.jpg"
+    },
+    {
+      "id": 20,
+      "name": "PLASTIC SPEED BREAKER -H2PB75-2",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/21.jpg"
+    },
+    {
+      "id": 21,
+      "name": "PLASTIC SPEED BREAKER -H2PB75-1",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/22.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Roadsafe Traffic Systems Y2K LED Barricade Warning Light",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/23.jpg"
+    },
+    {
+      "id": 23,
+      "name": "QUE-STAND h2-ECO",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/24.jpg"
+    },
+    {
+      "id": 24,
+      "name": "H2PB50-HIGHWAY Rubber Speed Breakers",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/25.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Hand push zebra crossing white Line pavement",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/26.jpg"
+    },
+    {
+      "id": 26,
+      "name": "TRAFFIC BATON / MAGIC LIGHTH29RG",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/27.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Wheel Stopper",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/28.jpg"
+    }
+  ],
+  "safetySignages": [
+    {
+      "id": 1,
+      "name": "Floor Marking Tape",
+      "price": "",
+      "imageSrc": "../Images/products/safetySignage/1 .jpg"
+    },
+    {
+      "id": 2,
+      "name": "Led Light",
+      "price": "",
+      "imageSrc": "../Images/products/safetySignage/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Safety Signage",
+      "price": "",
+      "imageSrc": "../Images/products/safetySignage/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Signage",
+      "price": "",
+      "imageSrc": "../Images/products/safetySignage/4.jpg"
+    }
+  ]
+}

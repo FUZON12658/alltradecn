@@ -1,0 +1,38 @@
+{
+  "dropdownItems": [
+    {
+      "label": "Fire Safety",
+      "url": "/fireSafety"
+    },
+    {
+      "label": "Road Safety",
+      "url": "/roadSafety"
+    },
+    {
+      "label": "Electrical Safety",
+      "url": "/electricalSafety"
+    },
+    {
+      "label": "Safety Signages",
+      "url": "/safetySignages"
+    },
+    {
+      "label": "Rescue Items",
+      "url": "/rescueItems"
+    }
+  ],
+  "quickLinks": [
+    { "label": "Home", "url": "/" },
+    { "label": "Fire Safety", "url": "/fireSafety" },
+    { "label": "Road Safety", "url": "/roadSafety" },
+    { "label": "Electrical Safety", "url": "/electricalSafety" },
+    { "label": "Safety Signages", "url": "/safetySignages" }
+  ],
+  "contacts": {
+    "phoneNumber": "+977-9801912091",
+    "email": "allnepaltradecenter.com.np@gmail.com"
+  },
+  "socialIcons": ["facebook", "instagram", "whatsapp", "twitter"],
+  "aboutUs": "ALL NEPAL TRADE CENTER is one of the leading total safety solutions providers...",
+  "addressMapSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14131.857296902104!2d85.3184222!3d27.6874975!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1916cbe787fd%3A0x8e496e30f0dfb9ef!2sAll%20Nepal%20Trade%20Center!5e0!3m2!1sen!2snp!4v1698407136865!5m2!1sen!2snp"
+}
