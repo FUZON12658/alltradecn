@@ -19,10 +19,6 @@
     {
       "label": "Rescue Items",
       "url": "/rescueItems"
-    },
-    {
-      "label": "Fire Not Safety",
-      "url" : "/notSafety"
     }
   ],
   "quickLinks": [
