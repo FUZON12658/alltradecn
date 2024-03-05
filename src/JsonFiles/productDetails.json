@@ -291,9 +291,16 @@
     ,
     {
       "id": 30,
-      "name": "Alminium Stud",
+      "name": "Aluminium Stud",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/alminium0336.jpeg"
+    }
+     ,
+    {
+      "id": 31,
+      "name": "Solar Road Stud",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/Solarroadstud0348.jpeg"
     }
   ],
   "safetySignages": [
