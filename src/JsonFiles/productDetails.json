@@ -308,6 +308,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/wheellocktruck.jpg"
     }
+    ,
+    {
+      "id": 33,
+      "name": "Corner Guards",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/Rubber Corner Guards.jpg"
+    }
   ],
   "safetySignages": [
     {
