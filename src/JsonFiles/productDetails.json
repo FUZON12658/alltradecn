@@ -288,6 +288,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/road-barrier-208011220318.webp"
     }
+    ,
+    {
+      "id": 30,
+      "name": "Alminium Stud",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/alminium0336.jpeg"
+    }
   ],
   "safetySignages": [
     {
