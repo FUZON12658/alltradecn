@@ -1,4 +1,4 @@
-{
+\{
   "fireSafety": [
     {
       "id": 1,
@@ -281,6 +281,12 @@
       "name": "T Type Cone",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/ttypecone208011220248.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Water Barrier",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/road-barrier-208011220318.webp"
     }
   ],
   "safetySignages": [
