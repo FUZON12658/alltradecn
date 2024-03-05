@@ -291,9 +291,22 @@
     ,
     {
       "id": 30,
-      "name": "Alminium Stud",
+      "name": "Aluminium Stud",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/alminium0336.jpeg"
+    }
+     ,
+    {
+      "id": 31,
+      "name": "Solar Road Stud",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/Solarroadstud0348.jpeg"
+    } ,
+    {
+      "id": 32,
+      "name": "Wheel Lock Truck",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/wheellocktruck.jpg"
     }
   ],
   "safetySignages": [
