@@ -313,14 +313,14 @@
       "id": 33,
       "name": "Corner Guards",
       "price": "",
-      "imageSrc": "../Images/products/roadSafety/Rubber Corner Guards.jpg"
+      "imageSrc": "../Images/products/roadSafety/RubberCornerGuards.jpg"
     }
     ,
     {
       "id": 34,
       "name": "Parking Stopper",
       "price": "",
-      "imageSrc": "../Images/products/roadSafety/Parking stopper.jpg"
+      "imageSrc": "../Images/products/roadSafety/Parkingstopper.jpg"
     }
   ],
   "safetySignages": [
