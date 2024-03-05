@@ -315,6 +315,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/Rubber Corner Guards.jpg"
     }
+    ,
+    {
+      "id": 34,
+      "name": "Parking Stopper",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/Parking stopper.jpg"
+    }
   ],
   "safetySignages": [
     {
