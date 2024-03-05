@@ -308,6 +308,20 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/wheellocktruck.jpg"
     }
+    ,
+    {
+      "id": 33,
+      "name": "Corner Guards",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/RubberCornerGuards.jpg"
+    }
+    ,
+    {
+      "id": 34,
+      "name": "Parking Stopper",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/Parkingstopper.jpg"
+    }
   ],
   "safetySignages": [
     {
