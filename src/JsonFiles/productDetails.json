@@ -275,6 +275,12 @@
       "name": "Wheel Stopper",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/28.jpg"
+    },
+    {
+      "id": 28,
+      "name": "T Type Cone",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/ttypecone208011220248.jpg"
     }
   ],
   "safetySignages": [
