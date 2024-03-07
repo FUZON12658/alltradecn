@@ -364,6 +364,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/plasticscissorbarrier.jpg"
     }
+     ,
+    {
+      "id": 41,
+      "name": "Delineator Post",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/delineatorpost.jpg"
+    }
   ],
   "safetySignages": [
     {
