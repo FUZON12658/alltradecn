@@ -41,6 +41,11 @@
       "name": "Fire Supression",
       "price": "$300",
       "imageSrc": "../Images/products/fireSafety/7.jpg"
+    }{
+      "id": 8,
+      "name": "Fire Man Gloves",
+      "price": "$300",
+      "imageSrc": "../Images/products/firemangloves.jpg"
     }
   ],
   "electricalSafety": [
