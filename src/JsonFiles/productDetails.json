@@ -343,6 +343,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/plastictrafficpillar.jpeg"
     }
+     ,
+    {
+      "id": 37,
+      "name": "metallic tubular with Hazard Markers ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/metallictubewithhazard.png.jpeg"
+    }
   ],
   "safetySignages": [
     {
