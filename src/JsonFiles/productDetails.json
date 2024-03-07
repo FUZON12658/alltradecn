@@ -348,7 +348,14 @@
       "id": 38,
       "name": "metallic tubular with Hazard Markers ",
       "price": "",
-      "imageSrc": "../Images/products/roadSafety/metallictubewithhazard.png.jpeg"
+      "imageSrc": "../Images/products/roadSafety/metallictubewithhazard.jpeg"
+    }
+    ,
+    {
+      "id": 39,
+      "name": "Center Verge spring post ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/centervergespringpost.jpg"
     }
   ],
   "safetySignages": [
