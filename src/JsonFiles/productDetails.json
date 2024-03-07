@@ -357,6 +357,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/centervergespringpost.jpg"
     }
+    ,
+    {
+      "id": 40,
+      "name": "Plastic Scissor Barrier",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/plasticscissorbarrier.jpg"
+    }
   ],
   "safetySignages": [
     {
