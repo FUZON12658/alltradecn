@@ -329,6 +329,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/Alcoliteroadstuds.jpeg"
     }
+    ,
+    {
+      "id": 36,
+      "name": "Bull Nose Water Barrier",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/Bullnosewaterbarrier.jpg"
+    }
   ],
   "safetySignages": [
     {
