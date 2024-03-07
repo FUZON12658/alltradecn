@@ -336,6 +336,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/Bullnosewaterbarrier.jpg"
     }
+     ,
+    {
+      "id": 37,
+      "name": "Plastic Traffic Pillar ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/plastictrafficpillar.jpeg"
+    }
   ],
   "safetySignages": [
     {
