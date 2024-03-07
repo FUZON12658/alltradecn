@@ -322,6 +322,13 @@
       "price": "",
       "imageSrc": "../Images/products/roadSafety/Parkingstopper.jpg"
     }
+    ,
+    {
+      "id": 35,
+      "name": "Alcolite Road Alumunium Studs",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/Alcoliteroadstuds.jpeg"
+    }
   ],
   "safetySignages": [
     {
