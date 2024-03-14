@@ -54,6 +54,13 @@
       "name": "Alumunized Hand Gloves ",
       "price": "$300",
       "imageSrc": "../Images/products/alumunizedhandgloves.jpg"
+  },
+   ,
+    {
+      "id": 9,
+      "name": "Alumunized Fire Man SUit ",
+      "price": "$300",
+      "imageSrc": "../Images/products/61c73af55d12a03.png"
   ],
   "electricalSafety": [
     {
