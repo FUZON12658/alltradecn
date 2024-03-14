@@ -67,6 +67,12 @@
       "name": " fire fighting back pack bag",
       "price": "$",
       "imageSrc": "../Images/products/fire fighting back pack bag.png"
+      ,
+    {
+      "id": 12,
+      "name": " fire man axe",
+      "price": "$",
+      "imageSrc": "../Images/products/firemanaxe.jpeg"
   ],
   "electricalSafety": [
     {
