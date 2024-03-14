@@ -52,15 +52,21 @@
     {
       "id": 9,
       "name": "Alumunized Hand Gloves ",
-      "price": "$300",
+      "price": "$",
       "imageSrc": "../Images/products/alumunizedhandgloves.jpg"
   },
    ,
     {
-      "id": 9,
+      "id": 10,
       "name": "Alumunized Fire Man SUit ",
-      "price": "$300",
+      "price": "$",
       "imageSrc": "../Images/products/61c73af55d12a03.png"
+      ,
+    {
+      "id": 11,
+      "name": " fire fighting back pack bag",
+      "price": "$",
+      "imageSrc": "../Images/products/fire fighting back pack bag.png"
   ],
   "electricalSafety": [
     {
