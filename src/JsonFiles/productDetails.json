@@ -60,9 +60,7 @@
       "name": "Alumunized Fire Man SUit ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/61c73af55d12a03.png"
-    }
-      ,
-
+    },
     {
       "id": 11,
       "name": " fire fighting back pack bag",
@@ -82,6 +80,12 @@
       "name": " Self Contained Breathing Apparates",
       "price": "$",
       "imageSrc": ".../Images/products/fireSafety/Self Contained-Breathing Apparatus.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Fire Bitter",
+      "price": "$100",
+      "imageSrc": "../Images/products/fireSafety/fb001.jpg"
     }
   ],
   "electricalSafety": [
