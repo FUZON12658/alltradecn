@@ -41,7 +41,44 @@
       "name": "Fire Supression",
       "price": "$300",
       "imageSrc": "../Images/products/fireSafety/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Fire Man Gloves",
+      "price": "$300",
+      "imageSrc": "../Images/products/firemangloves.jpg"
     }
+    ,
+    {
+      "id": 9,
+      "name": "Alumunized Hand Gloves ",
+      "price": "$",
+      "imageSrc": "../Images/products/alumunizedhandgloves.jpg"
+  },
+   ,
+    {
+      "id": 10,
+      "name": "Alumunized Fire Man SUit ",
+      "price": "$",
+      "imageSrc": "../Images/products/61c73af55d12a03.png"
+      ,
+    {
+      "id": 11,
+      "name": " fire fighting back pack bag",
+      "price": "$",
+      "imageSrc": "../Images/products/fire fighting back pack bag.png"
+      ,
+    {
+      "id": 12,
+      "name": " fire man axe",
+      "price": "$",
+      "imageSrc": "../Images/products/firemanaxe.jpeg"
+        ,
+    {
+      "id": 13,
+      "name": " Self Contained Breathing Apparates",
+      "price": "$",
+      "imageSrc": "../Images/products/Self Contained-Breathing Apparatus.jpg"
   ],
   "electricalSafety": [
     {
@@ -328,6 +365,48 @@
       "name": "Alcolite Road Alumunium Studs",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/Alcoliteroadstuds.jpeg"
+    }
+    ,
+    {
+      "id": 36,
+      "name": "Bull Nose Water Barrier",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/Bullnosewaterbarrier.jpg"
+    }
+     ,
+    {
+      "id": 37,
+      "name": "Plastic Traffic Pillar ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/plastictrafficpillar.jpeg"
+    }
+     ,
+    {
+      "id": 38,
+      "name": "metallic tubular with Hazard Markers ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/metallictubewithhazard.jpeg"
+    }
+    ,
+    {
+      "id": 39,
+      "name": "Center Verge spring post ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/centervergespringpost.jpg"
+    }
+    ,
+    {
+      "id": 40,
+      "name": "Plastic Scissor Barrier",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/plasticscissorbarrier.jpg"
+    }
+     ,
+    {
+      "id": 41,
+      "name": "Delineator Post",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/delineatorpost.jpg"
     }
   ],
   "safetySignages": [
