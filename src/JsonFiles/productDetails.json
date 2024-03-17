@@ -88,10 +88,16 @@
       "imageSrc": "../Images/products/fireSafety/fb001.jpg"
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Hand Operated Siren",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/fshs14.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Electeic Fire Siren",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fsels.jpeg"
     }
   ],
   "electricalSafety": [
