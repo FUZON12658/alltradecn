@@ -46,39 +46,43 @@
       "id": 8,
       "name": "Fire Man Gloves",
       "price": "$300",
-      "imageSrc": "../Images/products/firemangloves.jpg"
+      "imageSrc": "../Images/products/fireSafety/firemangloves.jpg"
     }
     ,
     {
       "id": 9,
       "name": "Alumunized Hand Gloves ",
       "price": "$",
-      "imageSrc": "../Images/products/alumunizedhandgloves.jpg"
+      "imageSrc": "../Images/products/fireSafety/alumunizedhandgloves.jpg"
   },
-   ,
     {
       "id": 10,
       "name": "Alumunized Fire Man SUit ",
       "price": "$",
-      "imageSrc": "../Images/products/61c73af55d12a03.png"
+      "imageSrc": "../Images/products/fireSafety/61c73af55d12a03.png"
+    }
       ,
+
     {
       "id": 11,
       "name": " fire fighting back pack bag",
       "price": "$",
-      "imageSrc": "../Images/products/fire fighting back pack bag.png"
+      "imageSrc": "../Images/products/fireSafety/fire fighting back pack bag.png"
+    }
       ,
     {
       "id": 12,
       "name": " fire man axe",
       "price": "$",
-      "imageSrc": "../Images/products/firemanaxe.jpeg"
-        ,
+      "imageSrc": "../Images/products/fireSafety/firemanaxe.jpeg"
+    }
+      ,
     {
       "id": 13,
       "name": " Self Contained Breathing Apparates",
       "price": "$",
-      "imageSrc": "../Images/products/Self Contained-Breathing Apparatus.jpg"
+      "imageSrc": ".../Images/products/fireSafety/Self Contained-Breathing Apparatus.jpg"
+    }
   ],
   "electricalSafety": [
     {
