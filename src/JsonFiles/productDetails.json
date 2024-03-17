@@ -73,6 +73,12 @@
       "name": " fire man axe",
       "price": "$",
       "imageSrc": "../Images/products/firemanaxe.jpeg"
+        ,
+    {
+      "id": 13,
+      "name": " Self Contained Breathing Apparates",
+      "price": "$",
+      "imageSrc": "../Images/products/Self Contained-Breathing Apparatus.jpg"
   ],
   "electricalSafety": [
     {
