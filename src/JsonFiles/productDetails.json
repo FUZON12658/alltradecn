@@ -67,7 +67,7 @@
       "id": 11,
       "name": " fire fighting back pack bag",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/fire fighting back pack bag.png"
+      "imageSrc": "../Images/products/fireSafety/bag.png"
     }
       ,
     {
@@ -79,7 +79,7 @@
       ,
     {
       "id": 13,
-      "name": " Self Contained Breathing Apparates",
+      "name": " Self Contained Breathing Apparatus",
       "price": "$",
       "imageSrc": ".../Images/products/fireSafety/Self Contained-Breathing Apparatus.jpg"
     }
