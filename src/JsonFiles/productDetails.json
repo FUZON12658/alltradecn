@@ -176,6 +176,12 @@
       "name": "1kg Abc Fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/1kg.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "2kg Abc Fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/2kg.jpeg"
     }
   ],
   "electricalSafety": [
