@@ -146,6 +146,12 @@
       "name": "Hose Pipe 15mtrs B type",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/hspb.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Single Hydrant Valve SS",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/ss1.jpeg"
     }
   ],
   "electricalSafety": [
