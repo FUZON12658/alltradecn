@@ -77,7 +77,7 @@
       ,
     {
       "id": 13,
-      "name": " Self Contained Breathing Apparates",
+      "name": " Self Contained Breathing Apparatus",
       "price": "$",
       "imageSrc": ".../Images/products/fireSafety/fs0010.jpg"
     },
@@ -97,7 +97,7 @@
       "id": 16,
       "name": "Electeic Fire Siren",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/fsels.jpeg"
+      "imageSrc": "../Images/products/fireSafety/fsels.jpg"
     },
     {
       "id": 17,
