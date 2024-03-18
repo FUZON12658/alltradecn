@@ -134,6 +134,12 @@
       "name": "fire Hooter",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/hoterfire.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Hose Pipe 15mtrs",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/hs15.jpeg"
     }
   ],
   "electricalSafety": [
