@@ -122,6 +122,12 @@
       "name": "Multi-Purpose Nozzle",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/mfn.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Hose Reel Drum",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/hspb.jpeg"
     }
   ],
   "electricalSafety": [
