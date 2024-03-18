@@ -110,6 +110,12 @@
       "name": "Fire rake Hoe",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/fsrake.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Branch pipe",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/bp1.jpeg"
     }
   ],
   "electricalSafety": [
