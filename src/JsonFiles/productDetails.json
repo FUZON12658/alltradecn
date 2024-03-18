@@ -97,7 +97,7 @@
       "id": 16,
       "name": "Electeic Fire Siren",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/fsels.jpeg"
+      "imageSrc": "../Images/products/fireSafety/fsels.jpg"
     },
     {
       "id": 17,
@@ -109,7 +109,7 @@
       "id": 18,
       "name": "Fire rake Hoe",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/fsrake.jpeg"
+      "imageSrc": "../Images/products/fireSafety/fsrake.jpg"
     }
   ],
   "electricalSafety": [
