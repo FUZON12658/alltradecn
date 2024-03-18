@@ -160,10 +160,16 @@
       "imageSrc": "../Images/products/fireSafety/ss2.jpeg"
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "Fire Stop Extinguisher 500ml",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/fs1.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "Fire Stop Extinguisher 1000ml",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fs1000.jpeg"
     }
   ],
   "electricalSafety": [
