@@ -158,6 +158,12 @@
       "name": "Double Headed Hydrant Valve SS",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/ss2.jpeg"
+    },
+    {
+      "id": 26,
+      "name": "Fire Stop Extinguisher 500ml",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fs1.jpeg"
     }
   ],
   "electricalSafety": [
