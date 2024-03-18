@@ -116,6 +116,12 @@
       "name": "Branch pipe",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/bp1.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Multi-Purpose Nozzle",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/mfn.jpeg"
     }
   ],
   "electricalSafety": [
