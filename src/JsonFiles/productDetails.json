@@ -140,6 +140,12 @@
       "name": "Hose Pipe 15mtrs",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/hs15.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "Hose Pipe 15mtrs B type",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/hspb.jpeg"
     }
   ],
   "electricalSafety": [
