@@ -86,6 +86,30 @@
       "name": "Fire Bitter",
       "price": "$100",
       "imageSrc": "../Images/products/fireSafety/fb001.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Hand Operated Siren",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fshs14.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Electeic Fire Siren",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fsels.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Fire Ball",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fsafo17.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Fire rake Hoe",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fsrake.jpeg"
     }
   ],
   "electricalSafety": [
