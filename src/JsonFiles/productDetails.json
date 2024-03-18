@@ -170,6 +170,12 @@
       "name": "Fire Stop Extinguisher 1000ml",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/fs1000.jpeg"
+    },
+    {
+      "id": 29,
+      "name": "1kg Abc Fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/1kg.jpeg"
     }
   ],
   "electricalSafety": [
