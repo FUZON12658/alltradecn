@@ -79,7 +79,7 @@
       "id": 13,
       "name": " Self Contained Breathing Apparatus",
       "price": "$",
-      "imageSrc": ".../Images/products/fireSafety/Self Contained-Breathing Apparatus.jpg"
+      "imageSrc": "../Images/products/fireSafety/Self Contained-Breathing Apparatus.jpg"
     },
     {
       "id": 14,
@@ -109,7 +109,7 @@
       "id": 18,
       "name": "Fire rake Hoe",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/fsrake.jpeg"
+      "imageSrc": "../Images/products/fireSafety/fsrake.jpg"
     },
     {
       "id": 19,
@@ -139,7 +139,7 @@
       "id": 23,
       "name": "Hose Pipe 15mtrs",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/hs15.jpeg"
+      "imageSrc": "../Images/products/fireSafety/hs15.jpg"
     },
     {
       "id": 24,
