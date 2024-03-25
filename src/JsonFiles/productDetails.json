@@ -261,6 +261,12 @@
       "name": "75litre foam fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/75ltr.jpeg"
+    },
+    {
+      "id": 44,
+      "name": "2kg co2 fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/2kgco2.jpeg"
     }
   ],
   "electricalSafety": [
