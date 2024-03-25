@@ -237,6 +237,12 @@
       "name": "9litre foam fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/9fm.jpeg"
+    },
+    {
+      "id": 40,
+      "name": "20litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/20lt.jpeg"
     }
   ],
   "electricalSafety": [
