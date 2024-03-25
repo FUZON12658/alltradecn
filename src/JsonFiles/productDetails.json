@@ -207,6 +207,12 @@
       "name": "25kg Abc Fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/25kg.jpeg"
+    },
+    {
+      "id": 35,
+      "name": "50kg Abc Fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/50kg.jpeg"
     }
   ],
   "electricalSafety": [
