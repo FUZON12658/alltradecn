@@ -225,6 +225,12 @@
       "name": "4litre foam fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/4lt.jpeg"
+    } ,
+    {
+      "id": 38,
+      "name": "6litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fm6l.jpeg"
     }
   ],
   "electricalSafety": [
