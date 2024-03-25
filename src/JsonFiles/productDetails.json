@@ -219,6 +219,12 @@
       "name": "75kg Abc Fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/75kg.jpeg"
+    },
+    {
+      "id": 37,
+      "name": "4litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/4lt.jpeg"
     }
   ],
   "electricalSafety": [
