@@ -280,6 +280,12 @@
       "name": "6.5kg co2 fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/6.5kgco2.jpeg"
+    },
+    {
+      "id": 47,
+      "name": "9kg co2 fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/9kgco2.jpeg"
     }
   ],
   "electricalSafety": [
