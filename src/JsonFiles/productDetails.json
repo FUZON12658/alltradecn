@@ -255,6 +255,12 @@
       "name": "50litre foam fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/50ltr.jpeg"
+    },
+    {
+      "id": 43,
+      "name": "75litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/75ltr.jpeg"
     }
   ],
   "electricalSafety": [
