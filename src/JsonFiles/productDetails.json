@@ -79,7 +79,7 @@
       "id": 13,
       "name": " Self Contained Breathing Apparatus",
       "price": "$",
-      "imageSrc": ".../Images/products/fireSafety/fs0010.jpg"
+      "imageSrc": "../Images/products/fireSafety/Self Contained-Breathing Apparatus.jpg"
     },
     {
       "id": 14,
@@ -109,7 +109,7 @@
       "id": 18,
       "name": "Fire rake Hoe",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/fsrake.jpeg"
+      "imageSrc": "../Images/products/fireSafety/fsrake.jpg"
     },
     {
       "id": 19,
@@ -139,7 +139,7 @@
       "id": 23,
       "name": "Hose Pipe 15mtrs",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/hs15.jpeg"
+      "imageSrc": "../Images/products/fireSafety/hs15.jpg"
     },
     {
       "id": 24,
@@ -157,7 +157,7 @@
       "id": 26,
       "name": "Double Headed Hydrant Valve SS",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/ss2.jpeg"
+      "imageSrc": "../Images/products/fireSafety/ss2.jpg"
     },
     {
       "id": 27,
@@ -169,19 +169,19 @@
       "id": 28,
       "name": "Fire Stop Extinguisher 1000ml",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/fs1000.jpeg"
+      "imageSrc": "../Images/products/fireSafety/fs1000.png"
     },
     {
       "id": 29,
       "name": "1kg Abc Fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/1kg.jpeg"
+      "imageSrc": "../Images/products/fireSafety/1kg.jpg"
     },
     {
       "id": 30,
       "name": "2kg Abc Fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/2kg.jpeg"
+      "imageSrc": "../Images/products/fireSafety/2kg.jpg"
     }
     ,
     {
@@ -570,14 +570,14 @@
       "id": 33,
       "name": "Corner Guards",
       "price": "",
-      "imageSrc": "../Images/products/roadSafety/RubberCornerGuards.jpg"
+      "imageSrc": "../Images/products/roadSafety/Rubber Corner Guards.jpg"
     }
     ,
     {
       "id": 34,
       "name": "Parking Stopper",
       "price": "",
-      "imageSrc": "../Images/products/roadSafety/Parkingstopper.jpg"
+      "imageSrc": "../Images/products/roadSafety/Parking stopper.jpg"
     }
     ,
     {
@@ -605,14 +605,14 @@
       "id": 38,
       "name": "metallic tubular with Hazard Markers ",
       "price": "",
-      "imageSrc": "../Images/products/roadSafety/metallictubewithhazard.jpeg"
+      "imageSrc": "../Images/products/roadSafety/metallictubewithhazard.png"
     }
     ,
     {
       "id": 39,
       "name": "Center Verge spring post ",
       "price": "",
-      "imageSrc": "../Images/products/roadSafety/centervergespringpost.jpg"
+      "imageSrc": "../Images/products/roadSafety/centervergespringpost.jpeg"
     }
     ,
     {
