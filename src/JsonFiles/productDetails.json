@@ -316,6 +316,12 @@
       "name": "Fire Bucket Stand  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/st.jpeg"
+    },
+    {
+      "id": 53,
+      "name": "Fire Shovel  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fr (2).jpeg"
     }
   ],
   "electricalSafety": [
