@@ -651,6 +651,12 @@
       "name": "Delineator Post",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/delineatorpost.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Shank Type Road Studs",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/all.jpg"
     }
   ],
   "safetySignages": [
