@@ -298,6 +298,12 @@
       "name": "45kg co2 fire Extinguisher  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/45kgco2.jpeg"
+    },
+    {
+      "id": 50,
+      "name": "Fire Escape Mask  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/escape.jpeg"
     }
   ],
   "electricalSafety": [
