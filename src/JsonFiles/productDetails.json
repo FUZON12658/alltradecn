@@ -38,9 +38,9 @@
     },
     {
       "id": 7,
-      "name": "Fire Supression",
+      "name": "Smoke Detector",
       "price": "$300",
-      "imageSrc": "../Images/products/fireSafety/7.jpg"
+      "imageSrc": "../Images/products/fireSafety/bat.jpg"
     },
     {
       "id": 8,
