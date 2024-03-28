@@ -663,6 +663,12 @@
       "name": "Flexiable leaf Type Median Marker ",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/leaf.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Solar Studs Nail Type  ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/nail.jpg"
     }
   ],
   "safetySignages": [
