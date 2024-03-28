@@ -675,6 +675,12 @@
       "name": "Rubber Rumble Strips  ",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/rm.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Hexagonal Cone  ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/pr.jpg"
     }
   ],
   "safetySignages": [
