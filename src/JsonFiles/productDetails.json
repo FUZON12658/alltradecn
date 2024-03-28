@@ -669,6 +669,12 @@
       "name": "Solar Studs Nail Type  ",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/nail.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Rubber Rumble Strips  ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/rm.jpg"
     }
   ],
   "safetySignages": [
