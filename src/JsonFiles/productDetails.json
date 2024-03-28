@@ -310,6 +310,12 @@
       "name": "Fire Bucket  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/fr.jpeg"
+    },
+    {
+      "id": 52,
+      "name": "Fire Bucket Stand  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/st.jpeg"
     }
   ],
   "electricalSafety": [
