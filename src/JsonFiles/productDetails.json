@@ -304,6 +304,12 @@
       "name": "Fire Escape Mask  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/escape.jpeg"
+    },
+    {
+      "id": 51,
+      "name": "Fire Bucket  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fr.jpeg"
     }
   ],
   "electricalSafety": [
