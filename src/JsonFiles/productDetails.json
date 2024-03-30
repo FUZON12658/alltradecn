@@ -38,9 +38,9 @@
     },
     {
       "id": 7,
-      "name": "Fire Supression",
+      "name": "Smoke Detector",
       "price": "$300",
-      "imageSrc": "../Images/products/fireSafety/7.jpg"
+      "imageSrc": "../Images/products/fireSafety/bat.jpg"
     },
     {
       "id": 8,
@@ -188,7 +188,140 @@
       "id": 31,
       "name": "4kg Abc Fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/4kg.jpg"
+      "imageSrc": "../Images/products/fireSafety/4kg.jpeg"
+    } ,
+    {
+      "id": 32,
+      "name": "6kg Abc Fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/6kg.jpeg"
+    },
+    {
+      "id": 33,
+      "name": "9kg Abc Fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/9kg.jpeg"
+    },
+    {
+      "id": 34,
+      "name": "25kg Abc Fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/25kg.jpeg"
+    },
+    {
+      "id": 35,
+      "name": "50kg Abc Fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/50kg.jpeg"
+    },
+    {
+      "id": 36,
+      "name": "75kg Abc Fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/75kg.jpeg"
+    },
+    {
+      "id": 37,
+      "name": "4litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/4lt.jpeg"
+    } ,
+    {
+      "id": 38,
+      "name": "6litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fm6l.jpeg"
+    },
+    {
+      "id": 39,
+      "name": "9litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/9fm.jpeg"
+    },
+    {
+      "id": 40,
+      "name": "20litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/20lt.jpeg"
+    },
+    {
+      "id": 41,
+      "name": "45litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/45fb.jpeg"
+    },
+    {
+      "id": 42,
+      "name": "50litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/50ltr.jpeg"
+    },
+    {
+      "id": 43,
+      "name": "75litre foam fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/75ltr.jpeg"
+    },
+    {
+      "id": 44,
+      "name": "2kg co2 fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/2kgco2.jpeg"
+    }
+    ,
+    {
+      "id": 45,
+      "name": "4.5kg co2 fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/4.5kgco2.jpeg"
+    },
+    {
+      "id": 46,
+      "name": "6.5kg co2 fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/6.5kgco2.jpeg"
+    },
+    {
+      "id": 47,
+      "name": "9kg co2 fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/9kgco2.jpeg"
+    },
+    {
+      "id": 48,
+      "name": "22.5kg co2 fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/22.5co2.jpeg"
+    },
+    {
+      "id": 49,
+      "name": "45kg co2 fire Extinguisher  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/45kgco2.jpeg"
+    },
+    {
+      "id": 50,
+      "name": "Fire Escape Mask  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/escape.jpeg"
+    },
+    {
+      "id": 51,
+      "name": "Fire Bucket  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fr.jpeg"
+    },
+    {
+      "id": 52,
+      "name": "Fire Bucket Stand  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/st.jpeg"
+    },
+    {
+      "id": 53,
+      "name": "Fire Shovel  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/fr (2).jpeg"
     }
   ],
   "electricalSafety": [
@@ -518,6 +651,42 @@
       "name": "Delineator Post",
       "price": "",
       "imageSrc": "../Images/products/roadSafety/delineatorpost.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Shank Type Road Studs",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/all.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Flexiable leaf Type Median Marker ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/leaf.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Solar Studs Nail Type  ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/nail.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Rubber Rumble Strips  ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/rm.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Hexagonal Cone  ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/pr.jpg"
+    },
+    {
+      "id": 47,
+      "name": "5kg traffic Cone  ",
+      "price": "",
+      "imageSrc": "../Images/products/roadSafety/5kg.png"
     }
   ],
   "safetySignages": [
