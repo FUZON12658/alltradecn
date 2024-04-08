@@ -322,6 +322,12 @@
       "name": "Fire Shovel  ",
       "price": "$",
       "imageSrc": "../Images/products/fireSafety/fr (2).jpeg"
+    },
+    {
+      "id": 54,
+      "name": "Fire Hose Cabinet  ",
+      "price": "$",
+      "imageSrc": "../Images/products/fireSafety/cabinetms.jpeg"
     }
   ],
   "electricalSafety": [
