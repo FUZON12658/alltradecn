@@ -398,6 +398,12 @@
       "name": "Rescue Rope",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Throw Bag",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/throw.jpg"
     }
   ],
   "roadSafety": [
