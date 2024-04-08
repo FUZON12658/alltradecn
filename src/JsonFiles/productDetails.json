@@ -404,6 +404,12 @@
       "name": "Throw Bag",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/throw.jpg"
+    },
+    {
+      "id": 8,
+      "name": "First AID KIT",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/first aid.jpg"
     }
   ],
   "roadSafety": [
