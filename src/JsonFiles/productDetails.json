@@ -407,9 +407,15 @@
     },
     {
       "id": 8,
-      "name": "First AID KIT",
+      "name": "First Aid Kit",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/first aid.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Strecher",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/STREC.jpg"
     }
   ],
   "roadSafety": [
