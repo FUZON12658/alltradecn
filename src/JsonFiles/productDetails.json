@@ -428,6 +428,12 @@
       "name": "Figure 8",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/figure8.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Static Rope 9mm",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/static.jpg"
     }
   ],
   "roadSafety": [
