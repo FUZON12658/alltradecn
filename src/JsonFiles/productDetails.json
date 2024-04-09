@@ -452,6 +452,12 @@
       "name": "Carabiner Be One",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/beonecarabiner.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Carabiner lock screw",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/screwcar.jpg"
     }
   ],
   "roadSafety": [
