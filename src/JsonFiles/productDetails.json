@@ -461,9 +461,21 @@
     },
     {
       "id": 17,
-      "name": "Carabiner lock screw",
+      "name": "Carabiner Auto lock ",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/auto.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Chest Harness",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/chest.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Seat Harness",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/product1675595144.jpg"
     }
   ],
   "roadSafety": [
