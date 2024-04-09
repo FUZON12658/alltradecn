@@ -440,6 +440,12 @@
       "name": "Static Rope 10mm",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/static10mm.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Dynamic Rope 10mm",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/dynamic.jpg"
     }
   ],
   "roadSafety": [
