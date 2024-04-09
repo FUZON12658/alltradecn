@@ -416,11 +416,18 @@
       "name": "Strecher",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/STREC.jpg"
-    }{
+    },
+    {
       "id": 10,
       "name": "Spinal Board Strecher",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/spine.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Figure 8",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/figure8.jpg"
     }
   ],
   "roadSafety": [
