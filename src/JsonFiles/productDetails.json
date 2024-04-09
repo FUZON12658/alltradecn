@@ -458,6 +458,12 @@
       "name": "Carabiner lock screw",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/screwcar.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Carabiner lock screw",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/auto.jpg"
     }
   ],
   "roadSafety": [
