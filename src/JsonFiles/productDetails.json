@@ -446,6 +446,12 @@
       "name": "Dynamic Rope 10mm",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/dynamic.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Carabiner Be One",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/beonecarabiner.jpg"
     }
   ],
   "roadSafety": [
