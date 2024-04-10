@@ -494,6 +494,12 @@
       "name": "Double Pulley",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/doublepulley.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Rappeling Gloves",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/rapp.jpg"
     }
   ],
   "roadSafety": [
