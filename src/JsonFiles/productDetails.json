@@ -488,6 +488,12 @@
       "name": "Single Pulley",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/pulleysin.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Double Pulley",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/doublepulley.jpg"
     }
   ],
   "roadSafety": [
