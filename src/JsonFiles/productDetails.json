@@ -476,13 +476,18 @@
       "name": "Seat Harness",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/seat h.jpg"
-    }
-    ,
+    },
     {
       "id": 20,
       "name": "Jumar or Hands up Ascender",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/JUMMAR.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Single Pulley",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/pulleysin.jpg"
     }
   ],
   "roadSafety": [
