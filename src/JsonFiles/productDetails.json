@@ -500,6 +500,12 @@
       "name": "Rappeling Gloves",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/rapp.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Grigri Belay Device",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/grigri.jpg"
     }
   ],
   "roadSafety": [
