@@ -477,6 +477,13 @@
       "price": "",
       "imageSrc": "../Images/products/rescueItems/seat h.jpg"
     }
+    ,
+    {
+      "id": 20,
+      "name": "Jumar or Hands up Ascender",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/JUMMAR.jpg"
+    }
   ],
   "roadSafety": [
     {
