@@ -512,6 +512,12 @@
       "name": "Self Breaking Decender ",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/decender.png"
+    },
+    {
+      "id": 26,
+      "name": "Rescue Full Body Harness",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/rescue.jpg"
     }
   ],
   "roadSafety": [
