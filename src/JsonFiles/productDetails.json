@@ -506,6 +506,12 @@
       "name": "Grigri Belay Device",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/grigri.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Self Breaking Decender ",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/decender.png"
     }
   ],
   "roadSafety": [
