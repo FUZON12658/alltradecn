@@ -518,6 +518,12 @@
       "name": "Rescue Full Body Harness",
       "price": "",
       "imageSrc": "../Images/products/rescueItems/rescue.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Emergency blanket Or Thermal Rescue Blanket",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/rescue.jpg"
     }
   ],
   "roadSafety": [
