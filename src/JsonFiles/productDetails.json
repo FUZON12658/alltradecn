@@ -525,6 +525,12 @@
       "price": "",
       "imageSrc": "../Images/products/rescueItems/emer.jpg"
     }
+    {
+      "id": 28,
+      "name": "Rock Climbing Helmet",
+      "price": "",
+      "imageSrc": "../Images/products/rescueItems/climbing .jpg"
+    }
   ],
   "roadSafety": [
     {
