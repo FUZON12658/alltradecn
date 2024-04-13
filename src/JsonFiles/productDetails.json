@@ -369,15 +369,21 @@
     },
     {
       "id": 7,
-      "name": "Low Ankle Double Density shoes Guina",
+      "name": "Mallcom Low Ankle Double Density Safety shoes Guina",
       "price": "",
-      "imageSrc": "../Images/products/electricalSafety/guinajpg"
+      "imageSrc": "../Images/products/electricalSafety/guina.jpg"
     },
     {
       "id": 8,
-      "name": "Low Ankle Double Density shoes Margay",
+      "name": "Mallcom Low Ankle Double Density Safety shoes Margay",
       "price": "",
-      "imageSrc": "../Images/products/electricalSafety/margayjpg"
+      "imageSrc": "../Images/products/electricalSafety/margay.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lorex Mallcom Safety shoes",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/tiger.jpg"
     }
   ],
   "rescueItems": [
