@@ -360,6 +360,12 @@
       "name": "Loto Kit",
       "price": "",
       "imageSrc": "../Images/products/electricalSafety/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hi ankle Safety Shoes Ontilla",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/SAFETY.jpg"
     }
   ],
   "rescueItems": [
