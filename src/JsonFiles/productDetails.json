@@ -372,6 +372,12 @@
       "name": "Low Ankle Double Density shoes Guina",
       "price": "",
       "imageSrc": "../Images/products/electricalSafety/guinajpg"
+    },
+    {
+      "id": 8,
+      "name": "Low Ankle Double Density shoes Margay",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/margayjpg"
     }
   ],
   "rescueItems": [
