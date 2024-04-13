@@ -366,6 +366,12 @@
       "name": "Hi ankle Safety Shoes Ontilla",
       "price": "",
       "imageSrc": "../Images/products/electricalSafety/SAFETY.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Low Ankle Double Density shoes Guina",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/guinajpg"
     }
   ],
   "rescueItems": [
