@@ -390,6 +390,12 @@
       "name": "Leopard Mallcom Safety shoes",
       "price": "",
       "imageSrc": "../Images/products/electricalSafety/hi.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Portable eyewash Station",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/HAND.jpg"
     }
   ],
   "rescueItems": [
