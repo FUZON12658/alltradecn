@@ -384,6 +384,12 @@
       "name": "Lorex Mallcom Safety shoes",
       "price": "",
       "imageSrc": "../Images/products/electricalSafety/tiger.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Leopard Mallcom Safety shoes",
+      "price": "",
+      "imageSrc": "../Images/products/electricalSafety/hi.jpg"
     }
   ],
   "rescueItems": [
