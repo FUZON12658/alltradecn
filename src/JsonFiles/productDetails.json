@@ -188,19 +188,19 @@
       "id": 31,
       "name": "4kg Abc Fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/4kg.jpeg"
+      "imageSrc": "../Images/products/fireSafety/4kg.jpg"
     } ,
     {
       "id": 32,
       "name": "6kg Abc Fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/6kg.jpeg"
+      "imageSrc": "../Images/products/fireSafety/6kg.jpg"
     },
     {
       "id": 33,
       "name": "9kg Abc Fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/9kg.jpeg"
+      "imageSrc": "../Images/products/fireSafety/9kg.jpg"
     },
     {
       "id": 34,
@@ -212,7 +212,7 @@
       "id": 35,
       "name": "50kg Abc Fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/50kg.jpeg"
+      "imageSrc": "../Images/products/fireSafety/50kg.jpg"
     },
     {
       "id": 36,
@@ -236,7 +236,7 @@
       "id": 39,
       "name": "9litre foam fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/9fm.jpeg"
+      "imageSrc": "../Images/products/fireSafety/9fm.jpg"
     },
     {
       "id": 40,
@@ -248,19 +248,19 @@
       "id": 41,
       "name": "45litre foam fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/45fb.jpeg"
+      "imageSrc": "../Images/products/fireSafety/45fb.jpg"
     },
     {
       "id": 42,
       "name": "50litre foam fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/50ltr.jpeg"
+      "imageSrc": "../Images/products/fireSafety/50ltr.jpg"
     },
     {
       "id": 43,
       "name": "75litre foam fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/75ltr.jpeg"
+      "imageSrc": "../Images/products/fireSafety/75ltr.jpg"
     },
     {
       "id": 44,
@@ -279,7 +279,7 @@
       "id": 46,
       "name": "6.5kg co2 fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/6.5kgco2.jpeg"
+      "imageSrc": "../Images/products/fireSafety/6.5kgco2.jpg"
     },
     {
       "id": 47,
@@ -303,7 +303,7 @@
       "id": 50,
       "name": "Fire Escape Mask  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/escape.jpeg"
+      "imageSrc": "../Images/products/fireSafety/escape.jpg"
     },
     {
       "id": 51,
@@ -321,7 +321,7 @@
       "id": 53,
       "name": "Fire Shovel  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/fr (2).jpeg"
+      "imageSrc": "../Images/products/fireSafety/fr-shovel.jpeg"
     },
     {
       "id": 54,
