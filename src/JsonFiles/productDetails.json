@@ -291,7 +291,7 @@
       "id": 48,
       "name": "22.5kg co2 fire Extinguisher  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/22.5co2.jpeg"
+      "imageSrc": "../Images/products/fireSafety/22.5co2.jpg"
     },
     {
       "id": 49,
@@ -327,7 +327,7 @@
       "id": 54,
       "name": "Fire Hose Cabinet  ",
       "price": "$",
-      "imageSrc": "../Images/products/fireSafety/cabinetms.jpeg"
+      "imageSrc": "../Images/products/fireSafety/cabinetms.jpg"
     }
   ],
   "electricalSafety": [
